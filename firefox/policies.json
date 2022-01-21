@@ -1,0 +1,10 @@
+{
+	"policies": {
+		"Homepage": {
+			"URL": "https://teams.microsoft.com",
+			"Locked": true,
+			"StartPage": "homepage"
+		},
+		"OverrideFirstRunPage": "https://teams.microsoft.com"
+	}
+}
